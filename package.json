@@ -54,7 +54,7 @@
     "cli-progress": "^3.8.2",
     "dotenv": "^8.2.0",
     "elasticsearch": "^16.7.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fluent-ffmpeg": "^2.1.2",
     "graphql-tools": "^7.0.2",
     "graphql-type-json": "^0.3.2",
